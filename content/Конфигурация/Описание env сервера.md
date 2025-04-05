@@ -1,6 +1,6 @@
 ---
 title: Backend .env
-draft: true
+draft: false
 ---
 ## Основные настройки
 | Переменная | Тип    | Описание                     |
